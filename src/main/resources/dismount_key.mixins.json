@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.aminaa.dismount_key.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "dismount_key.refmap.json",
+  "client": [
+    "PlayerMixin",
+    "ClientPacketListenerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
