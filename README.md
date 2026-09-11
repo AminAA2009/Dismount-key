@@ -58,7 +58,7 @@ Dismount Key provides a client-side configuration that allows you to customize t
 
 ### Dismount Belt
 
-- **Enabled** — Enables or disables the Dismount Belt feature and its keybind.
+- **Enabled** — Enables or disables the Dismount Belt feature.
 - **Mode** — Determines how the Dismount Belt works:
   - **Normal** — Press the Dismount Belt key to fasten or unfasten the belt.
   - **Two-Key** — Hold the Dismount Belt and Dismount keys together to dismount.
