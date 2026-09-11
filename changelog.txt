@@ -1,0 +1,6 @@
+Dismount Key Changelog
+
+1.0.0
+- Initial release.
+- Added a separate keybind for dismounting from vehicles without using Sneak.
+- Added the optional Dismount Belt with Normal and Two-Key modes.

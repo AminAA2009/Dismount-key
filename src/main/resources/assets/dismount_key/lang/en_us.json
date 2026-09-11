@@ -1,0 +1,9 @@
+{
+  "key.dismount_key.dismount": "Dismount",
+  "key.dismount_key.dismount_belt": "Dismount Belt",
+
+  "message.dismount_key.belt_fastened": "Dismount Belt Fastened",
+  "message.dismount_key.belt_unfastened": "Dismount Belt Unfastened",
+  "message.dismount_key.belt_locked": "Dismount Belt is Fastened. Unfasten it to Dismount.",
+  "message.dismount_key.two_key_required": "Hold %s + %s to Dismount."
+}
