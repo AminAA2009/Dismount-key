@@ -65,7 +65,7 @@ Dismount Key provides a client-side configuration that allows you to customize t
 - **Auto Belt on Mount** — Automatically fastens the belt when mounting a vehicle. This option only applies to Normal Mode.
 - **Show Belt Messages** — Controls whether Dismount Belt status and instruction messages are displayed.
 
-The **Dismount** and **Dismount Belt** keybinds can also be changed through**Minecraft** → **Options** → **Controls**.
+The **Dismount** and **Dismount Belt** keybinds can also be changed through **Minecraft** → **Options** → **Controls**.
 
 ## Building from Source
 
