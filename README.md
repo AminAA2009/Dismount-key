@@ -44,7 +44,8 @@ Dismount Belt can be completely disabled through the configuration. When disable
 1. Download the `.jar` file from [Modrinth](https://modrinth.com/mod/dismount-key) or the latest [Release](https://github.com/AminAA2009/Dismount-key/releases) on GitHub.
 2. Make sure you have Minecraft Forge 1.20.1 installed.
 3. Place the downloaded `.jar` file into your `mods` folder.
-4. Launch Minecraft.
+4. If you play on a server, install the mod on both the server and the client, and use the same version on both.
+5. Launch Minecraft.
 
 This mod is also designed to be used in **Forge 1.20.1 modpacks**.
 
